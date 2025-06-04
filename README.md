@@ -2,14 +2,17 @@
 
 1. ASCII renderer
   https://editor.p5js.org/syrophoam/sketches/JaZ_3-fS-
-2. mondiron inspired rectangles
-   https://editor.p5js.org/syrophoam/sketches/YhPbDC5oO
-3. filtered noise
-   https://editor.p5js.org/syrophoam/sketches/0DSVpzxI0
-4. polka dots
-   https://editor.p5js.org/syrophoam/sketches/zs9WZhOL_
-5. tiled feedback
-  
-6. spikey ball
+this was a satisfying one to complete becuase of how tedius it was alligning the charecters as they arent perfect squares.
 
+
+3. mondiron inspired rectangles
+   https://editor.p5js.org/syrophoam/sketches/YhPbDC5oO
+4. filtered noise
+   https://editor.p5js.org/syrophoam/sketches/0DSVpzxI0
+5. polka dots
+
+6. tiled feedback
+   tile.toe
+7. spikey ball
+   week11.toe (container 1)
    
